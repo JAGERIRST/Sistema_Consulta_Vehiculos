@@ -5,7 +5,7 @@ module.exports = defineConfig({
   devServer: {
     proxy: {
       '/api': {
-        target: 'http://localhost:5000/', // URL del backend en Node.js
+        target: 'http://localhost:5000/', 
         changeOrigin: true,
         pathRewrite: { '^/api': '' }
       }
