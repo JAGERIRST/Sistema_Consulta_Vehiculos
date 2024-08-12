@@ -1,0 +1,233 @@
+[
+  {
+    "plate": "JSPW98",
+    "country": "CHL",
+    "model": "NEW 3",
+    "version": null,
+    "displacement": 2,
+    "year": 2017,
+    "vin": "JM7BN3273J1146657",
+    "motor_number": "PE20897153",
+    "brand_name": "MAZDA"
+  },
+  {
+    "plate": "LRKJ19",
+    "country": "CHL",
+    "model": "RAV4",
+    "version": "OTTO AUT",
+    "displacement": 2,
+    "year": 2019,
+    "vin": "JTMW43FV5LD017957",
+    "motor_number": "M20AV056411",
+    "brand_name": "TOYOTA"
+  },
+  {
+    "plate": "PKRP48",
+    "country": "CHL",
+    "model": "ACCENT",
+    "version": "HCI",
+    "displacement": 1.4,
+    "year": 2021,
+    "vin": "MALC741BAMM235210",
+    "motor_number": "G4LCLU385336",
+    "brand_name": "HYUNDAI"
+  },
+  {
+    "plate": "SKRP27",
+    "country": "CHL",
+    "model": "WR",
+    "version": "V LX AUT",
+    "displacement": 1.5,
+    "year": 2023,
+    "vin": "93HGH8820PK600340",
+    "motor_number": "L15Z93600305",
+    "brand_name": "HONDA"
+  },
+  {
+    "plate": "PJTH11",
+    "country": "CHL",
+    "model": "VERSA",
+    "version": "SEDAN",
+    "displacement": 1.6,
+    "year": 2021,
+    "vin": "94DBCAN17MB100156",
+    "motor_number": "HR16361833T",
+    "brand_name": "NISSAN"
+  },
+  {
+    "plate": "LXPR25",
+    "country": "CHL",
+    "model": "-",
+    "version": null,
+    "displacement": 0,
+    "year": 2020,
+    "vin": "TSMYD21S4LM693690",
+    "motor_number": "M16A-2304664",
+    "brand_name": "SUZUKI"
+  },
+  {
+    "plate": "LDHH27",
+    "country": "CHL",
+    "model": "MORNING",
+    "version": "EX",
+    "displacement": 1.2,
+    "year": 2019,
+    "vin": "KNAB3512ALT436790",
+    "motor_number": "G4LAJP132646",
+    "brand_name": "KIA"
+  },
+  {
+    "plate": "GFBP30",
+    "country": "CHL",
+    "model": "LAND",
+    "version": "CRUISER PRADO AUT",
+    "displacement": 4,
+    "year": 2014,
+    "vin": "JTEBU3FJ0D5045507",
+    "motor_number": "1GRA719814",
+    "brand_name": "TOYOTA"
+  },
+  {
+    "plate": "PJFC65",
+    "country": "CHL",
+    "model": "L200",
+    "version": "WORK CR WF",
+    "displacement": 2.4,
+    "year": 2021,
+    "vin": "MMBJJKK10LH031325",
+    "motor_number": "4N15UGM6501",
+    "brand_name": "MITSUBISHI"
+  },
+  {
+    "plate": "KSGS79",
+    "country": "CHL",
+    "model": "SWIFT",
+    "version": "GLX",
+    "displacement": 1.2,
+    "year": 2018,
+    "vin": "JS2ZC63S9K6101669",
+    "motor_number": "K12M5027782",
+    "brand_name": "SUZUKI"
+  },
+  {
+    "plate": "84389FJJ8349",
+    "country": "SDFDS",
+    "model": "NOSE",
+    "version": "LA MEJOR",
+    "displacement": 9.1,
+    "year": 2092,
+    "vin": "392090EJ3290J32",
+    "motor_number": "134A",
+    "brand_name": "YAPO"
+  },
+  {
+    "plate": "JSPW98",
+    "country": "CHL",
+    "model": "S15",
+    "version": "SPEC R",
+    "displacement": 1.8,
+    "year": 2001,
+    "vin": "23832473274",
+    "motor_number": "SR12",
+    "brand_name": "NISSAN"
+  },
+  {
+    "plate": "43r434r",
+    "country": "sdfsdf",
+    "model": "dsfsdfsd",
+    "version": "sdfdfdsf",
+    "displacement": null,
+    "year": 324324,
+    "vin": "dsfdsfsdf",
+    "motor_number": "dsfsdfsd",
+    "brand_name": "dsfsdfds"
+  },
+  {
+    "plate": "adfsfsd",
+    "country": "sfsdfdsfds",
+    "model": "dsfsdfds",
+    "version": "dsfdsfds",
+    "displacement": null,
+    "year": 324324,
+    "vin": "fsdfdsfsd",
+    "motor_number": "dfsdfsd",
+    "brand_name": "sdfsdfsdf"
+  },
+  {
+    "plate": "hola 10",
+    "country": "peru",
+    "model": "nose",
+    "version": "yaya",
+    "displacement": 1.8,
+    "year": 1274,
+    "vin": "14324324324",
+    "motor_number": "ddre1232432",
+    "brand_name": "toyota"
+  },
+  {
+    "plate": "324343",
+    "country": "43r43r43",
+    "model": "erefe",
+    "version": "34f43f43f",
+    "displacement": null,
+    "year": 23432,
+    "vin": "fe3f343",
+    "motor_number": "34f43f43",
+    "brand_name": "43f43"
+  },
+  {
+    "plate": "3434",
+    "country": "34f343",
+    "model": "f43f43",
+    "version": "43f43f43",
+    "displacement": 43,
+    "year": 23432,
+    "vin": "3443f4",
+    "motor_number": "ffffffffffef",
+    "brand_name": "43frf"
+  },
+  {
+    "plate": "32ed32d",
+    "country": "32d32d32",
+    "model": "d322d332d",
+    "version": "d32d32d",
+    "displacement": 32,
+    "year": 2132432,
+    "vin": "dsferfer",
+    "motor_number": "32e32d32",
+    "brand_name": "32f3232"
+  },
+  {
+    "plate": "323323",
+    "country": "333333333333333333",
+    "model": "333333333333",
+    "version": "3333333333333",
+    "displacement": 333333333333333,
+    "year": 3333333333333,
+    "vin": "333333333333",
+    "motor_number": "3333333333333",
+    "brand_name": "3333333333"
+  },
+  {
+    "plate": "111111111111",
+    "country": "111111111111111111111111111",
+    "model": "111111111111111111111",
+    "version": "1111111111111111111111",
+    "displacement": 1.1111111111111111e+21,
+    "year": 1,
+    "vin": "1111111111111111111",
+    "motor_number": "11111111111111111111",
+    "brand_name": "1111111111111111111"
+  },
+  {
+    "plate": "33333",
+    "country": "33333333333333",
+    "model": "534534",
+    "version": "34534534",
+    "displacement": "34534534",
+    "year": 34534543,
+    "vin": "5345435",
+    "motor_number": "43534",
+    "brand_name": "34534"
+  }
+]
