@@ -8,7 +8,7 @@
       <button @click="searchVehicleByVin" class="button is-info">Buscar por VIN</button>
       <button @click="fetchAllVehicles" class="button is-link">Mostrar todos</button>
     </div> 
-
+ 
     <div v-if="vehicle" class="vehicle-details">
       <h2>Detalles del Vehículo</h2>
       <div class="vehicle-info">
